@@ -4,7 +4,11 @@
 
 This project involves pre-processing and combining agricultural datasets related to temperature, pesticides, rainfall, and crop yield for further usage. The process is split into two main Jupyter notebooks: `pre_process_csv.ipynb` and `main.ipynb`. The former handles data cleaning and initial processing, while the latter focuses on merging and organizing the datasets.
 
-<!-- ## `pre_process_csv.ipynb` -->
+<!-- 
+to change the continent grouping by climate zones
+
+
+ -->
 
 ### Folder Structure
 
